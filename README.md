@@ -31,8 +31,8 @@ Node.js scraper untuk Dramawave API berdasarkan captured network traffic. Script
 
 ```bash
 # Clone repository ini
-git clone https://github.com/yourusername/dramawave-scraper.git
-cd dramawave-scraper
+https://github.com/gilang1612/Dramawave_Scrape.git
+cd dramawave_scrape
 
 # Install dependencies (tidak ada external dependencies, hanya Node.js built-in modules)
 # Tidak perlu install apapun!
